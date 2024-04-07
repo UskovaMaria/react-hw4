@@ -1,0 +1,16 @@
+{
+  "employers": [
+    {
+      "id": "e622",
+      "name": "Ivan",
+      "surname": "Ivanov",
+      "active": true
+    },
+    {
+      "id": "82a6",
+      "name": "Petro",
+      "surname": "Petrov",
+      "active": true
+    }
+  ]
+}
